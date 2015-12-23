@@ -1,0 +1,14 @@
+{
+	"data": {
+		"SampleVis": {
+			"visualization": "SampleVis",
+			"alias": "sampleVis-00",
+			"commit": "master"
+		},
+		"AnotherSampleVis": {
+			"visualization": "AnotherSampleVis",
+			"alias": "sampleVis-01",
+			"commit": "master"
+		}
+	}
+}
